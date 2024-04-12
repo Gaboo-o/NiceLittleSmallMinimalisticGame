@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: b5c20942a32cfc147a9d34f469a34d2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Trees&Rocks2.0-1.png (1)_0
+  - first:
+      213: 21300002
+    second: Trees&Rocks2.0-1.png (1)_1
+  - first:
+      213: 21300004
+    second: Trees&Rocks2.0-1.png (1)_2
+  - first:
+      213: 21300006
+    second: Trees&Rocks2.0-1.png (1)_3
+  - first:
+      213: 21300008
+    second: Trees&Rocks2.0-1.png (1)_4
+  - first:
+      213: 21300010
+    second: Trees&Rocks2.0-1.png (1)_5
+  - first:
+      213: 21300012
+    second: Trees&Rocks2.0-1.png (1)_6
+  - first:
+      213: 21300014
+    second: Trees&Rocks2.0-1.png (1)_7
+  - first:
+      213: 21300016
+    second: Trees&Rocks2.0-1.png (1)_8
+  - first:
+      213: 21300018
+    second: Trees&Rocks2.0-1.png (1)_9
+  - first:
+      213: 21300020
+    second: Trees&Rocks2.0-1.png (1)_10
+  - first:
+      213: 21300022
+    second: Trees&Rocks2.0-1.png (1)_11
+  - first:
+      213: 21300024
+    second: Trees&Rocks2.0-1.png (1)_12
+  - first:
+      213: 21300026
+    second: Trees&Rocks2.0-1.png (1)_13
+  - first:
+      213: 21300028
+    second: Trees&Rocks2.0-1.png (1)_14
+  - first:
+      213: 21300030
+    second: Trees&Rocks2.0-1.png (1)_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d07818b198a941b591cf3fef67999
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e79beee39d0984fad2991c85a24a14
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 23
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157c571f898f6446a6042e05d264e0a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c1e48aea945844bca4b1178895cc7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea693367a73344d9b41e97a804badd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 37
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590eaff63e474894c87327ca2089c705
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc562588e1a4914bb243b06a8c42abb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0da48f458c5ba4eab401b49d77e31e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f48cb414f9e5c4fa1950c8ecd3dd3e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 25
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf328fc8369fbd42b75fa50d3917625
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93028c56a6ecab4aa531f56e86774cb
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 15
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74c122da9d34249ac6ed5cf4e28069
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 15
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d91e04e0cd0f34f921e8d8cd0214a6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f3e2266033ed43815a4ccc7471f89
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381c0b6d7c6a0d4683e11b0cab516a3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees&Rocks2.0-1.png (1)_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 15
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7244419113ef4793c2aef7182bc74
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f05585ec14aa2f459ed0dc69b221169
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
